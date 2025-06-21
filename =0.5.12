@@ -1,0 +1,6 @@
+Collecting lap
+  Downloading lap-0.5.12-cp310-cp310-win_amd64.whl (1.5 MB)
+     ---------------------------------------- 1.5/1.5 MB 11.7 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.21.6 in c:\users\jayanth\desktop\accident_project\accidentenv\lib\site-packages (from lap) (2.2.5)
+Installing collected packages: lap
+Successfully installed lap-0.5.12

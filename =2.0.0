@@ -1,0 +1,6 @@
+Collecting shapely
+  Downloading shapely-2.1.1-cp310-cp310-win_amd64.whl (1.7 MB)
+     ---------------------------------------- 1.7/1.7 MB 13.5 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.21 in c:\users\jayanth\desktop\accident_project\accidentenv\lib\site-packages (from shapely) (2.2.5)
+Installing collected packages: shapely
+Successfully installed shapely-2.1.1
